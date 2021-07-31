@@ -5,7 +5,7 @@
       <input v-model="task" type="text" placeholder="Enter task" class="form-control">
       <button @click="submitTask" class="btn btn-warning rounded-0">SUBMIT</button>
     </div>
-    <!-- ................table................. -->
+    <!-- ................table................ -->
               <table class="table table-bordered">
                   <thead>
                     <tr>
